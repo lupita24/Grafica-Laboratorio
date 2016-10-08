@@ -1,0 +1,17 @@
+comando para correr el archivo.cpp
+
+g++ laboratorio.cpp -o ejecutable -lGL -lGLU -lglut
+
+Ingresa la opcion que desee
+1 - Dibujo de poligono
+2 - Linea con puntos
+3 - Dibujo de circulo
+4 - Dibujo de elipse
+5 - Dibujo de hiperbola
+5
+
+
+En la función myDisplay()
+
+se puede modificar los valores para analizar poligono,circulo, etc.
+
